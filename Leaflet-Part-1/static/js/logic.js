@@ -1,3 +1,5 @@
+// //store the URL for the GeoJSON data
+const url = 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson'
 // Create our map, giving it the streetmap and earthquakes layers to display on load.
 let myMap = L.map("map", {
     center: [

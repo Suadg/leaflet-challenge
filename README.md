@@ -1,5 +1,5 @@
 # leaflet-challenge
-
+<img src="https://github.com/Suadg/leaflet-challenge/blob/main/leafletlogo.png">
 
 ## Background
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
@@ -59,3 +59,5 @@ These requirements apply only to "Part 1: Create the Earthquake Visualization" a
 
 - All data points load in the correct locations 
 
+## Libraries used 
+Leaflet 
